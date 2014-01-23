@@ -14,6 +14,7 @@
 # Composer
 composer.phar
 composer.lock
+<<<<<<< HEAD
 
 # OS
 .DS_Store
@@ -21,3 +22,11 @@ composer.lock
 
 # Packages
 _ide_helpers.php
+||||||| merged common ancestors
+.DS_Store
+=======
+.env.local.php
+.env.php
+.DS_Store
+Thumbs.db
+>>>>>>> laravel/master

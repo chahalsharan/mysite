@@ -2,11 +2,25 @@
 `Version: 1.2.1 Stable` [![ProjectStatus](http://stillmaintained.com/andrew13/Laravel-4-Bootstrap-Starter-Site.png)](http://stillmaintained.com/andrew13/Laravel-4-Bootstrap-Starter-Site)
 [![Build Status](https://api.travis-ci.org/andrew13/Laravel-4-Bootstrap-Starter-Site.png)](https://travis-ci.org/andrew13/Laravel-4-Bootstrap-Starter-Site)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/andrew13/laravel-4-bootstrap-starter-site/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+||||||| merged common ancestors
 
 Laravel 4 Bootstrap Starter Site is a sample application for beginning development with Laravel 4.
+### A Framework For Web Artisans
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework) [![License](https://poser.pugx.org/laravel/framework/license.png)](https://packagist.org/packages/laravel/framework) 
 
 It began as a fork of [laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit) taking the starter kit changing the included modules and adding a few as well.
+||||||| merged common ancestors
+[Official Documentation](http://four.laravel.com) (Under Active Development)
+=======
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
 
+Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+
+Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+
+## Official Documentation
+
+Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
 ## Features
 
@@ -433,3 +447,5 @@ This is free software distributed under the terms of the MIT license
 Inspired by and based on [laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit)
 
 Any questions, feel free to [contact me](http://twitter.com/andrewelkins).
+
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
